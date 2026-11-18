@@ -16,4 +16,4 @@ The script is still in development. Script installation instructions will be add
 
 ## Compatibility
 
-Desktop and TornPDA compatibility still need testing.
+TornPDA/mobile compatibility under development.
