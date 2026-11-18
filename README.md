@@ -10,7 +10,7 @@ A small userscript widget for converting between Torn City Time (TCT) and your l
 
 ## Install
 
-Get [Tampermonkey](https://www.tampermonkey.net/) for desktop, or use [TornPDA](https://www.tornpda.com/) on mobile.
+Get [Tampermonkey](https://www.tampermonkey.net/) `or equivalent` for desktop, or use [TornPDA](https://www.tornpda.com/) on mobile.
 
 The script is still in development. Script installation instructions will be added when a working version is available.
 
