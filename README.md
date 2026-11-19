@@ -1,19 +1,19 @@
 # TCT
 
-A small userscript widget for converting between Torn City Time (TCT) and your local time without leaving [Torn](https://www.torn.com/).
+A lightweight userscript widget for converting between Torn City Time (TCT) and your local time without leaving [Torn](https://www.torn.com/).
 
-## Planned features
+## Features
 
 - Show TCT and local time together.
-- Convert an entered time between the two.
-- A compact, collapsible widget with controls usable on desktop and mobile.
+- Convert a date and time in either direction.
+- Open and close the widget with the **TCT** button.
 
 ## Install
 
-Get [Tampermonkey](https://www.tampermonkey.net/) (or equivalent) for desktop, or use [TornPDA](https://www.tornpda.com/) on mobile.
+**Desktop:** Get [Tampermonkey](https://www.tampermonkey.net/), click [Install TCT](https://raw.githubusercontent.com/sqlinjected/tct/main/tct.user.js), and confirm the install. Reload [Torn](https://www.torn.com/) and click **TCT** near the bottom left.
 
-The script is still in development. Script installation instructions will be added when a working version is available.
+**Mobile:** In [TornPDA](https://www.tornpda.com/), open **Settings → User scripts** and import `tct.user.js` from the top menu.
 
 ## Compatibility
 
-TornPDA / mobile compatibility under development.
+Tested on desktop with Tampermonkey. TornPDA compatibility pending.
